@@ -1,1 +1,5 @@
-Nothing needs to be added to .gitignore since only a markdown file (SHENRON_PROTOCOL.md) was added, which is a source/config file and should not be ignored.
+```
+# Source: LOKI_FUNCTION.md, src/lib/loki-function.ts
+# No build artifacts, dependencies, or temp files detected
+# Only source/config files present - no ignores needed
+```
